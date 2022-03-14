@@ -12,39 +12,6 @@
   "ProjectWorkspaceState": {
     "TagHelpers": [
       {
-        "HashCode": 160552824,
-        "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Pages.ContactInfo",
-        "AssemblyName": "DanielWebCVBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "ContactInfo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Pages.ContactInfo"
-        }
-      },
-      {
-        "HashCode": -828316007,
-        "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Pages.ContactInfo",
-        "AssemblyName": "DanielWebCVBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DanielWebCVBlazor.Pages.ContactInfo"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Pages.ContactInfo",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
         "HashCode": 1181484555,
         "Kind": "Components.Component",
         "Name": "DanielWebCVBlazor.Pages.Counter",
@@ -74,39 +41,6 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "DanielWebCVBlazor.Pages.Counter",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": 1010824885,
-        "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Pages.Experience",
-        "AssemblyName": "DanielWebCVBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "Experience"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Pages.Experience"
-        }
-      },
-      {
-        "HashCode": -1681029516,
-        "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Pages.Experience",
-        "AssemblyName": "DanielWebCVBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DanielWebCVBlazor.Pages.Experience"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Pages.Experience",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -144,6 +78,39 @@
         }
       },
       {
+        "HashCode": 1010824885,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Pages.Experience",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Experience"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.Experience"
+        }
+      },
+      {
+        "HashCode": -1681029516,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Pages.Experience",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DanielWebCVBlazor.Pages.Experience"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.Experience",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
         "HashCode": 1516411933,
         "Kind": "Components.Component",
         "Name": "DanielWebCVBlazor.Pages.Projects",
@@ -177,35 +144,35 @@
         }
       },
       {
-        "HashCode": 606591823,
+        "HashCode": 174370675,
         "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Pages.Index",
+        "Name": "DanielWebCVBlazor.Pages.Education",
         "AssemblyName": "DanielWebCVBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "Index"
+            "TagName": "Education"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Pages.Index"
+          "Common.TypeName": "DanielWebCVBlazor.Pages.Education"
         }
       },
       {
-        "HashCode": 1242180689,
+        "HashCode": 765928874,
         "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Pages.Index",
+        "Name": "DanielWebCVBlazor.Pages.Education",
         "AssemblyName": "DanielWebCVBlazor",
         "CaseSensitive": true,
         "TagMatchingRules": [
           {
-            "TagName": "DanielWebCVBlazor.Pages.Index"
+            "TagName": "DanielWebCVBlazor.Pages.Education"
           }
         ],
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Pages.Index",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.Education",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -239,6 +206,72 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "DanielWebCVBlazor.Pages.Skills",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 160552824,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Pages.ContactInfo",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "ContactInfo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.ContactInfo"
+        }
+      },
+      {
+        "HashCode": -828316007,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Pages.ContactInfo",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DanielWebCVBlazor.Pages.ContactInfo"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.ContactInfo",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": 606591823,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Pages.Index",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.Index"
+        }
+      },
+      {
+        "HashCode": 1242180689,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Pages.Index",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DanielWebCVBlazor.Pages.Index"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Pages.Index",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -325,6 +358,39 @@
         "Metadata": {
           "Runtime.Name": "Components.IComponent",
           "Common.TypeName": "DanielWebCVBlazor.Shared.SurveyPrompt",
+          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
+        }
+      },
+      {
+        "HashCode": -257997637,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Shared.NavMenu",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Shared.NavMenu"
+        }
+      },
+      {
+        "HashCode": 1704701093,
+        "Kind": "Components.Component",
+        "Name": "DanielWebCVBlazor.Shared.NavMenu",
+        "AssemblyName": "DanielWebCVBlazor",
+        "CaseSensitive": true,
+        "TagMatchingRules": [
+          {
+            "TagName": "DanielWebCVBlazor.Shared.NavMenu"
+          }
+        ],
+        "Metadata": {
+          "Runtime.Name": "Components.IComponent",
+          "Common.TypeName": "DanielWebCVBlazor.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -421,39 +487,6 @@
           "Runtime.Name": "Components.None",
           "Common.TypeName": "DanielWebCVBlazor.Shared.MainLayout.Body",
           "Components.IsSpecialKind": "Components.ChildContent",
-          "Components.NameMatch": "Components.FullyQualifiedNameMatch"
-        }
-      },
-      {
-        "HashCode": -257997637,
-        "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Shared.NavMenu",
-        "AssemblyName": "DanielWebCVBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Shared.NavMenu"
-        }
-      },
-      {
-        "HashCode": 1704701093,
-        "Kind": "Components.Component",
-        "Name": "DanielWebCVBlazor.Shared.NavMenu",
-        "AssemblyName": "DanielWebCVBlazor",
-        "CaseSensitive": true,
-        "TagMatchingRules": [
-          {
-            "TagName": "DanielWebCVBlazor.Shared.NavMenu"
-          }
-        ],
-        "Metadata": {
-          "Runtime.Name": "Components.IComponent",
-          "Common.TypeName": "DanielWebCVBlazor.Shared.NavMenu",
           "Components.NameMatch": "Components.FullyQualifiedNameMatch"
         }
       },
@@ -73985,6 +74018,11 @@
     {
       "FilePath": "/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Experience.razor",
       "TargetPath": "Pages\\Experience.razor",
+      "FileKind": "component"
+    },
+    {
+      "FilePath": "/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Education.razor",
+      "TargetPath": "Pages\\Education.razor",
       "FileKind": "component"
     },
     {

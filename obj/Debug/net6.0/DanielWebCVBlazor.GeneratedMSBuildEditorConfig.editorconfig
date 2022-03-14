@@ -27,6 +27,10 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Education.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRWR1Y2F0aW9uLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Experience.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZXJpZW5jZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
