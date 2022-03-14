@@ -1,0 +1,76 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = DanielWebCVBlazor
+build_property.RootNamespace = DanielWebCVBlazor
+build_property.ProjectDir = /home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor
+build_property._RazorSourceGeneratorDebug = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/ContactInfo.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29udGFjdEluZm8ucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Experience.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXhwZXJpZW5jZS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/FetchData.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRmV0Y2hEYXRhLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Projects.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJvamVjdHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Skills.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2tpbGxzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Shared/SurveyPrompt.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL1N1cnZleVByb21wdC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Shared/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL01haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-ltew73s77w
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Shared/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = U2hhcmVkL05hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-bo1poppilb
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/_Host.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0hvc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/home/daniel/Documents/GitHub/DanielWebCV/DanielWebCVBlazor/Pages/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX0xheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
